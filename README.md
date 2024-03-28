@@ -1,6 +1,6 @@
 ## 🛠 Skills
 
-Mobile App Development (Android & iOS), Website Developemnt.
+Mobile App Development (Android & iOS), Website Developemnt, Content Writing, SEO.
 
 ## ⚙️ Tech Stack
 
