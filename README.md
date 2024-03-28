@@ -1,6 +1,3 @@
-# Hi, I'm Onamika Yesmin Onu 👋 Welcome to my profile.
-
-
 ## 🚀 About Me
 As a full-stack developer, I'm Passionate about problem-solving and continuous learning, I excel in dynamic environments, delivering innovative solutions through cross-functional collaboration. Let's connect to explore collaboration opportunities and drive measurable results.
 
@@ -9,7 +6,7 @@ As a full-stack developer, I'm Passionate about problem-solving and continuous l
 JavaScript, PHP, Python, C++, Java
 
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Font-End:** Next.js, React, Redux, Expo, Tailwind, Bootstrap.
 
