@@ -1,4 +1,4 @@
-![1711615353219](https://github.com/devwithonu/devwithonu/assets/165252815/afd00146-c0cb-45ef-8de3-2175d04cb835)
+![Uploading Picture4.png…]()
 
 ## 🛠 Skills
 
